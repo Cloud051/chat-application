@@ -13,7 +13,7 @@ A simple application to connect clients with a Socket server
 - Client to Connect to Server
 - Try and Except Handling
 
-## What I learnt
+## What I learned
 
 The project was easy, and I learned how to create a **socket server** and to configure it. Also, I learned about **thread objects**; they work in the background while the program is running.
 About the client part, this line of code made me think ```client_socket.sendall(b"Hello Server!")```, the 'b' means **bytes**, it uses the **ASCII** encoding to send the message to the server.
